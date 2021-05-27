@@ -1,4 +1,4 @@
-# Git Course on Udemy
+# Git Course on Udemy (Branch Main)
 
 Este é um repositório de teste para ensinar como o Git funciona.
 
